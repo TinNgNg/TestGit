@@ -10,5 +10,6 @@ int main()
 	cout << "Them 2 dong thi no van la 1 thay doi mot cai gi do";
 	cout << "Pha la chinh";
 	cout << "Pha lan 2";
+	cout << "Pha kieu khac";
 	return 1;
 }
