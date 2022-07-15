@@ -1,2 +1,6 @@
 ninhdeptraiqua
+<<<<<<< HEAD
 oke
+=======
+ninhdeptraithatmap
+>>>>>>> 18830ef791274da6b42a6594873d35c2d3c72724
