@@ -1,3 +1,9 @@
+function Helo()
+{
+    return 5;
+}
+Helo();
+
 // Hello, this if index.js file
 
 function hello() {
@@ -5,4 +11,6 @@ function hello() {
 }
 
 hello();
+
 //thu
+

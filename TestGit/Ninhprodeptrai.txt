@@ -2,5 +2,13 @@
 ninhxautraiqua
 =======
 ninhdeptraiqua
+<<<<<<< HEAD
 ninhdeptraithatmap
 >>>>>>> c8551ca9b0996d922e71ea7f1be3eb991d3a133a
+=======
+<<<<<<< HEAD
+oke
+=======
+ninhdeptraithatmap
+>>>>>>> 18830ef791274da6b42a6594873d35c2d3c72724
+>>>>>>> e0c82459562c76f53a014c86884dd99276af9eee
